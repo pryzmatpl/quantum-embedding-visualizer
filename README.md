@@ -315,7 +315,7 @@ If you find this useful, cite it in your work, please. Proper attribution helps 
 **If you use this work, please cite:**
 
 - **This repository** (for code and implementation)
-- **Pryzm** ([pryzm.at](https://pryzm.at)) — the company behind this research
+- **PRIZM** ([pryzm.at](https://pryzm.at)) — the company behind this research
 
 Your citations help us:
 - Track the impact of this research
