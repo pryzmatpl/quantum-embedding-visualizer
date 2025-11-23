@@ -299,10 +299,10 @@ If you use this work in your research, please cite:
 ```bibtex
 @misc{quantum_embeddings_2025,
   title={Quantum Semantic Embeddings via Chirped Electromagnetic Field Patterns},
-  author={Piotro and Grok},
+  author={PRIZM Research},
   year={2025},
   month={November},
-  url={https://github.com/yourusername/pattern-embeddings}
+  url={https://github.com/pryzmmatpl/quantum-embedding-visualizer}
 }
 ```
 
