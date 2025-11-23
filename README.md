@@ -1,7 +1,7 @@
 # Quantum Semantic Embeddings via Chirped Electromagnetic Field Patterns
 
 **A Mathematically Rigorous Exposition**  
-*Piotro & Grok, November 2025*
+*PRIZM, November 2025*
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
@@ -21,7 +21,7 @@ Every word $w \in \mathcal{V}$ is represented as a **quantum wavefunction** $\ps
 
 $$
 \boxed{
-\operatorname{sim}(w,v) \;:=\; |\langle \psi_w | \psi_v \rangle_{L^2}|^2 \;\in\; [0,1]
+\text{sim}(w,v) \;:=\; |\langle \psi_w | \psi_v \rangle_{L^2}|^2 \;\in\; [0,1]
 }
 $$
 
@@ -97,7 +97,7 @@ Semantic similarity is then defined **purely quantum-mechanically** as the Born-
 
 $$
 \boxed{
-\operatorname{sim}(w,v) \;:=\; |\langle \psi_w | \psi_v \rangle_{L^2}|^2 \;\in\; [0,1]
+\text{sim}(w,v) \;:=\; |\langle \psi_w | \psi_v \rangle_{L^2}|^2 \;\in\; [0,1]
 }
 $$
 
@@ -150,7 +150,7 @@ The discrete inner product becomes
 $$
 \langle \psi_w | \psi_v \rangle \approx \Delta x \sum_j \psi_w[j]^\ast \psi_v[j]
 \;\Rightarrow\;
-\operatorname{sim}(w,v) \approx \Bigl|\Delta x \sum_j \psi_w[j]^\ast \psi_v[j]\Bigr|^2.
+\text{sim}(w,v) \approx \Bigl|\Delta x \sum_j \psi_w[j]^\ast \psi_v[j]\Bigr|^2.
 $$
 
 ### Semantic Seeding from Classical Embeddings
@@ -305,6 +305,24 @@ If you use this work in your research, please cite:
   url={https://github.com/yourusername/pattern-embeddings}
 }
 ```
+
+---
+
+## 🌟 Citation Outreach
+
+If you find this useful, cite it in your work, please. Proper attribution helps advance the field and supports continued development.
+
+**If you use this work, please cite:**
+
+- **This repository** (for code and implementation)
+- **Pryzm** ([pryzm.at](https://pryzm.at)) — the company behind this research
+
+Your citations help us:
+- Track the impact of this research
+- Continue developing quantum embedding technologies
+- Support open-source quantum computing initiatives
+
+For commercial use or collaboration inquiries, please contact us through [Pryzm](https://pryzm.at).
 
 ---
 
